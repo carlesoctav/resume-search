@@ -88,7 +88,7 @@ class ColBERTRetriever(BaseRetriever):
 if __name__ == "__main__":
     reader = SimpleDirectoryReader(input_dir="./html2pdf/")
     index_name = "resume"
-    index_path = None
+    index_path = "/home/carlesoctav/personal/resume-search/.ragatouille/colbert/indexes/resume"
 
     nodes = reader.load_data()
     pipeline = IngestionPipeline(
@@ -114,7 +114,9 @@ if __name__ == "__main__":
 
     while True:
         query = input("Query: ")
+        print(f"Query: {query}")
         top_k = int(input("Top k: "))
+        print(f"Top k: {top_k}")
         results = RAG.search(query, k=top_k)
         for result in results:
             print(result["content"])
