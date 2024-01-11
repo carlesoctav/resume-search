@@ -1,3 +1,4 @@
 html2pdf
 .venv
 .ragatouille
+.env
