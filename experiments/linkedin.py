@@ -9,7 +9,7 @@ load_dotenv()
 api = Linkedin(os.getenv('LINKEDIN_EMAIL'), os.getenv('LINKEDIN_PASS'))
 print("hah")
 # GET a profile
-profile = api.get_profile('suvarna-kadam-a3191613')
+profile = api.get_profile('bismamandasamsu')
 
 with open ('profile.json', 'w') as f:
     json.dump(profile, f, indent=4)

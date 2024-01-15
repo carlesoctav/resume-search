@@ -1,0 +1,688 @@
+{
+    "summary": "I am passionate into digging complex challenges and solve them. I plan, execute, and getting things done. To accomplish this, I focus on key results, build amazing teams and quickly adapt to new insight. \n\nI have enjoyed several leadership position throughout my career, including two stints with government as special staff at Ministry of State Owned Enterprise. \n\nI enjoy meeting new people and hearing new perspectives. Reach out if you want to talk about emerging tech, fintech, digital currency, or business matching. \n\nDomain Knowledge\nBusiness Development | Banking Strategy | Government | Venture Building | Financial Technology | Human Capital |",
+    "industryName": "Banking",
+    "lastName": "Manda Samsu",
+    "locationName": "Indonesia",
+    "student": false,
+    "$anti_abuse_metadata": {
+        "/lastName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/phoneticFirstName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/geoCountryUrn": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/entityUrn": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/elt": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/firstName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/summary": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/address": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/geoLocationName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/industryName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/geoLocationBackfilled": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/phoneticLastName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/versionTag": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/maidenName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/student": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/headline": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/locationName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/geoCountryName": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/industryUrn": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        },
+        "/showEducationOnProfileTopCard": {
+            "sourceUrns": {
+                "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+            }
+        }
+    },
+    "geoCountryName": "Indonesia",
+    "geoCountryUrn": "urn:li:fs_geo:102478259",
+    "geoLocationBackfilled": false,
+    "elt": false,
+    "birthDate": {
+        "month": 6,
+        "day": 17
+    },
+    "industryUrn": "urn:li:fs_industry:41",
+    "firstName": "Bisma",
+    "entityUrn": "urn:li:fs_profile:ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ",
+    "geoLocation": {
+        "geoUrn": "urn:li:fs_geo:90010101"
+    },
+    "geoLocationName": "Jakarta Metropolitan Area",
+    "location": {
+        "basicLocation": {
+            "countryCode": "id"
+        }
+    },
+    "headline": "Value Creator & Venture Builder",
+    "displayPictureUrl": "https://media.licdn.com/dms/image/C5103AQGfRX9VFWHCWg/profile-displayphoto-shrink_",
+    "img_100_100": "100_100/0/1565576127948?e=1710374400&v=beta&t=kwTvZiQ9Nb6pgzCDLlGhAG6YeXwt0cw3bFFVYRDYB8s",
+    "img_200_200": "200_200/0/1565576127895?e=1710374400&v=beta&t=yRm1lZBZJCsCa1TOYLzDMI1NL3cXGONYj-1aFdeEFRA",
+    "img_400_400": "400_400/0/1565576127985?e=1710374400&v=beta&t=kHTG7b8le3Mtzg2K0LBaOKPFfzKowIpUHRLIduu6yBA",
+    "img_500_500": "800_800/0/1565576128072?e=1710374400&v=beta&t=lPGxHj5wirmkdiFcA4-QzA4fzR_L-F5Q45hiFdJC5WQ",
+    "profile_id": "ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ",
+    "profile_urn": "urn:li:fs_miniProfile:ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ",
+    "member_urn": "urn:li:member:183152439",
+    "public_id": "bismamandasamsu",
+    "experience": [
+        {
+            "locationName": "Jakarta, Indonesia",
+            "entityUrn": "urn:li:fs_position:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,1765696962)",
+            "$anti_abuse_metadata": {
+                "/geoUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/geoLocationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/promotion": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/title": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/region": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/locationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "geoLocationName": "Jakarta, Indonesia",
+            "geoUrn": "urn:li:fs_geo:104370960",
+            "companyName": "PT. Mandiri Capital Indonesia (MCI)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "description": "Heading Mandiri Capital's Synergy unit\n- venture building: experimenting new opportunities and thinking beyond traditional banking to develop new businesses.\n- assess potential startup: develop an independent, value-added perspective on investment discussions. \n- business matching: connect startups with common business interests, complementary services, expertise, technologies or business strengths with Mandiri Group. \n- innovation driver: increasing the pace of innovation to serve changing customer needs and create a better, faster, cheaper business process.\n- portfolio management: support, manage and maintain current Mandiri Capital portfolio companies.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ]
+            },
+            "title": "SEVP Synergy & Value Creation",
+            "region": "urn:li:fs_region:(id,0)",
+            "companyUrn": "urn:li:fs_miniCompany:13341363",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQHlZQmixHC0QA/company-logo_"
+        },
+        {
+            "entityUrn": "urn:li:fs_position:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,1766222989)",
+            "$anti_abuse_metadata": {
+                "/geoUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/geoLocationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/promotion": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/title": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/region": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/locationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "companyName": "Kementerian Badan Usaha Milik Negara Republik Indonesia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "description": "Communication Strategy and Agenda Setting\nDeveloping Communication Strategy from Corporate Action, Corporate Issues and other related both internal & external communication strategy for 146 State Owned Enterprises.\n\nIndonesia Muda Club\nCreating the channel and community of young and professional talent from State Owned Enterprises to provide business information and corporate strategy that have always been a crucial sector of their company. Together, Indonesia Muda Club produce and disseminate a huge array of content that educates, informs and entertains the public.\n\nBUMN Cerdas\nCreating and execute the education online platform to aid public who wants to discover more about various industry from 146 State Owned Enterprises",
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Government Administration"
+                ]
+            },
+            "title": "Communication Team Leader",
+            "companyUrn": "urn:li:fs_miniCompany:70483367",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQGq1tn2wJ2hEQ/company-logo_"
+        },
+        {
+            "locationName": "Greater Jakarta Area, Indonesia",
+            "entityUrn": "urn:li:fs_position:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,1499218849)",
+            "$anti_abuse_metadata": {
+                "/geoUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/geoLocationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/promotion": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/title": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/region": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/locationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "geoLocationName": "Greater Jakarta Area, Indonesia",
+            "companyName": "PT Bank Mandiri (Persero) Tbk.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "description": "1. Design strategy and initiatives to deliver and embody company's new way of thinking, working and providing solution for customer (beyond culture)\n2. Embrace the face of youth generation, enhance employer branding through the most effective and efficient way\n3. Define youngster style of company (Tough , agile, collaborative, Focus on the big picture, optimistic)\n4. End to end campaign strategy, program and execution. \n5. Define and execute employee experience program.",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Banking"
+                ]
+            },
+            "title": "Head Of Department - Employee Experience & Youth Program",
+            "companyUrn": "urn:li:fs_miniCompany:20333",
+            "companyLogoUrl": "https://media.licdn.com/dms/image/C510BAQE3N-B3kStdZA/company-logo_"
+        },
+        {
+            "locationName": "Greater Jakarta Area, Indonesia",
+            "entityUrn": "urn:li:fs_position:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,1499219521)",
+            "$anti_abuse_metadata": {
+                "/geoUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/geoLocationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/promotion": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/title": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/region": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/locationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "geoLocationName": "Greater Jakarta Area, Indonesia",
+            "geoUrn": "urn:li:fs_geo:102471123",
+            "companyName": "Indonesia SOE Ministry",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "description": "1. Initiate and design SOE culture campaign for around 600.000 SOE millennials member\n2. Close partnership with 146 SOE communication and HR team to establish Millennials squad across SOE member\n3. Drive a collaborative culture within Indonesian SOE through some initiatives such as interest based community, innovation hub, social projects across Indonesia (More than 40 cities) \n",
+            "title": "Head of Youth Engangement Program  - Millenial State Own Enterprise ",
+            "region": "urn:li:fs_region:(id,8594)"
+        },
+        {
+            "locationName": "jakarta",
+            "entityUrn": "urn:li:fs_position:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,998011545)",
+            "$anti_abuse_metadata": {
+                "/geoUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/companyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/geoLocationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/promotion": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/title": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/region": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/locationName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "geoLocationName": "jakarta",
+            "companyName": "PT Mandiri Capital Indonesia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "description": "Venture Capital - a subsidiary of Bank Mandiri. \n\n-From the finance side, Bisma is responsible for providing overall direction for  the organization's financial strategy, budget, performance management and treasury functions for the organization. Provide short to medium term direction for all corporate finances.\n\n- HR Role including managing recruitment, talent pool, HR business partner and HR policy. End to end employee experience management, including developing culture strategy and implementation.\n\nFrom the incubator side, Bisma manages the selection process of startups that are inducted to the program, which includes several phases such as: researching, assessing, and filtering potential startups that can be inducted into the program. \n\nIn addition, Bisma also provides crucial guidance to the startups through coaching and mentoring each incubatee in the program.",
+            "title": "Head of Finance, HR and Incubator"
+        }
+    ],
+    "education": [
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,112156239)",
+            "school": {
+                "objectUrn": "urn:li:school:13035",
+                "entityUrn": "urn:li:fs_miniSchool:13035",
+                "active": true,
+                "schoolName": "Universitas Gadjah Mada (UGM)",
+                "trackingId": "gv2dVkZuT/+LqID8f/BR4A==",
+                "logoUrl": "https://media.licdn.com/dms/image/C4E0BAQFbPfOc9lUBrA/company-logo_"
+            },
+            "$anti_abuse_metadata": {
+                "/schoolUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/degreeUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/fieldOfStudy": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/activities": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/grade": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/fieldOfStudyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/schoolName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/degreeName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "degreeName": "Master of economics of development",
+            "schoolName": "Universitas Gadjah Mada (UGM)",
+            "fieldOfStudy": "Banking and Financial Support Services",
+            "schoolUrn": "urn:li:fs_miniSchool:13035"
+        },
+        {
+            "entityUrn": "urn:li:fs_education:(ACoAAArqrzcBNvgKGHo5vTbU3f4Y8jOL2VHXCtQ,159351505)",
+            "school": {
+                "objectUrn": "urn:li:school:13125",
+                "entityUrn": "urn:li:fs_miniSchool:13125",
+                "active": true,
+                "schoolName": "Petra Christian University",
+                "trackingId": "hxGV5QBHQeqafNJsRZPAtA==",
+                "logoUrl": "https://media.licdn.com/dms/image/D560BAQEpN4Vp6xITrA/company-logo_"
+            },
+            "$anti_abuse_metadata": {
+                "/schoolUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/degreeUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/fieldOfStudy": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/activities": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/entityUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/grade": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/fieldOfStudyUrn": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/schoolName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/degreeName": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                },
+                "/description": {
+                    "sourceUrns": {
+                        "com.linkedin.common.urn.MemberUrn": "urn:li:member:183152439"
+                    }
+                }
+            },
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "degreeName": "S.E",
+            "schoolName": "Universitas Kristen Petra",
+            "fieldOfStudy": "Accounting",
+            "schoolUrn": "urn:li:fs_miniSchool:13125"
+        }
+    ],
+    "languages": [
+        {
+            "name": "Bahasa",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        }
+    ],
+    "publications": [],
+    "certifications": [],
+    "volunteer": [],
+    "honors": [],
+    "projects": []
+}
